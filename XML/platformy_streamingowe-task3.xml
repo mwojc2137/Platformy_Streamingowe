@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<platformy_streamingowe>
+    <platforma>
+        <nazwa logo="czerwone N" tłumaczenia_nazwy="brak">Netflix</nazwa>
+        <cena rodzaj_płatności="subskrybcja" co_ile="miesiąc">50zl</cena>
+        <oferta dla="dorośli/dzieci" nowości="co tydzień">filmy, seriale</oferta>
+        <urządzenia możlwiość_korzystania_z_wielu_urządzeń_w_jednym_momencie="tak" maksymalna_liczba_urządzeń="3">komputer, telefon, telewizor</urządzenia>
+    </platforma>
+    <platforma>
+        <nazwa logo="Prime video na niebieskim tle" tłumaczenia_nazwy="główne wideo">Prime Video</nazwa>
+        <cena rodzaj_płatności="subskrybcja" co_ile="rok">60zl</cena>
+        <oferta  dla="dorośli/dzieci" nowości="co miesiąc">filmy, seriale</oferta>
+        <urządzenia możlwiość_korzystania_z_wielu_urządzeń_w_jednym_momencie="tak" maksymalna_liczba_urządzeń="5">komputer, telefon, telewizor</urządzenia>
+    </platforma>
+    <platforma>
+        <nazwa logo="Disney na niebiskim tle" tłumaczenia_nazwy="brak">Disney+</nazwa>
+        <cena rodzaj_płatności="subskrybcja" co_ile="miesiąc">55zł</cena>
+        <oferta  dla="dorośli/dzieci" nowości="co miesiąc">filmy, seriale</oferta>
+        <urządzenia możlwiość_korzystania_z_wielu_urządzeń_w_jednym_momencie="tak" maksymalna_liczba_urządzeń="3">komputer, telefon, telewizor</urządzenia>
+    </platforma>
+    <platforma>
+        <nazwa  logo="zielone z bialymi kreskami" tłumaczenia_nazwy="brak">Spotify</nazwa>
+        <cena rodzaj_płatności="subskrybcja" co_ile="miesiąc">20zł</cena>
+        <oferta dla="dorośli/dzieci" nowości="codziennie">muzyka, podcasty</oferta>
+        <urządzenia możlwiość_korzystania_z_wielu_urządzeń_w_jednym_momencie="nie" maksymalna_liczba_urządzeń="1">komputer, telefon, samochód</urządzenia>
+    </platforma>
+    <platforma>
+        <nazwa  logo="nuta na czerwonym tle" tłumaczenia_nazwy="Jabłko Muzyka">Apple Music</nazwa>
+        <cena rodzaj_płatności="subskrybcja" co_ile="miesiąc">30zł</cena>
+        <oferta dla="dorośli/dzieci" nowości="co tydzień">muzyka, podcasty</oferta>
+        <urządzenia możlwiość_korzystania_z_wielu_urządzeń_w_jednym_momencie="nie" maksymalna_liczba_urządzeń="1">komputer, telefon, samochód</urządzenia>
+    </platforma>
+    <platforma>
+        <nazwa logo="fioletowa postać z oczami" tłumaczenia_nazwy="drganie">Twitch</nazwa>
+        <cena rodzaj_płatności="subskrybcja" co_ile="miesiąc">40zł</cena>
+        <oferta dla="dorośli/dzieci" nowości="codziennie">transmisje na żywo</oferta>
+        <urządzenia możlwiość_korzystania_z_wielu_urządzeń_w_jednym_momencie="tak" maksymalna_liczba_urządzeń="brak limitu">komputer, telefon, telewizor</urządzenia>
+    </platforma>
+</platformy_streamingowe>
