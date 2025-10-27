@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<platformy_streamingowe>
+    <platforma>
+        <nazwa>Netflix</nazwa>
+        <cena>50zl</cena>
+        <oferta>filmy, seriale</oferta>
+        <urządzenia>komputer, telefon, telewizor</urządzenia>
+    </platforma>
+    <platforma>
+        <nazwa>Prime Video</nazwa>
+        <cena>60zl</cena>
+        <oferta>filmy, seriale</oferta>
+        <urządzenia>komputer, telefon, telewizor</urządzenia>
+    </platforma>
+    <platforma>
+        <nazwa>Disney+</nazwa>
+        <cena>55zł</cena>
+        <oferta>filmy, seriale</oferta>
+        <urządzenia>komputer, telefon, telewizor</urządzenia>
+    </platforma>
+    <platforma>
+        <nazwa>Spotify</nazwa>
+        <cena>20zł</cena>
+        <oferta>muzyka, podcasty</oferta>
+        <urządzenia>komputer, telefon, samochód</urządzenia>
+    </platforma>
+    <platforma>
+        <nazwa>Apple Music</nazwa>
+        <cena>30zł</cena>
+        <oferta>muzyka, podcasty</oferta>
+        <urządzenia>komputer, telefon, samochód</urządzenia>
+    </platforma>
+    <platforma>
+        <nazwa>Twitch</nazwa>
+        <cena>40zł</cena>
+        <oferta>transmisje na żywo</oferta>
+        <urządzenia>komputer, telefon, telewizor</urządzenia>
+    </platforma>
+</platformy_streamingowe>
