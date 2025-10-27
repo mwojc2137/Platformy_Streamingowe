@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Youtube",
+        "users_in_millions": 2500,
+        "year_founded": 2005,
+        "is_active": true,
+        "founders": ["Jawed Karim", "Chad Hurley", "Steve Chen"]
+    },
+    {
+        "name": "Twitch",
+        "users_in_millions": 1.7,
+        "year_founded": 2011,
+        "is_active": true,
+        "founders": ["Justin Kan", "Emmett Shear", "Michael Seibel", "Kyle Vogt", "Kevin Lin"]
+    },
+    {
+        "name": "Netfix",
+        "users_in_millions": 301.6,
+        "year_founded": 1997,
+        "is_active": true,
+        "founders": ["Marc Randoplh", "Reed Hastings"]
+    },
+    {
+        "name": "broadcast.com",
+        "users_in_millions": 0.6,
+        "year_founded": 1995,
+        "is_active": false,
+        "founders": ["Cameron C. Jaeb", "Todd Wagner", "Mark Cuban", "Martin Woodall"]
+    },
+    {
+        "name": "Kick",
+        "users_in_millions": 23,
+        "year_founded": 2022,
+        "is_active": true,
+        "founders": ["Bijan Tehrani", "Ed Craven"]
+    },
+    {
+        "name": "Amazon Prime Video",
+        "users_in_millions": 205,
+        "year_founded": 2006,
+        "is_active": true,
+        "founders": ["Jeff Bezos", "Amazon Company"]
+    }
+]
